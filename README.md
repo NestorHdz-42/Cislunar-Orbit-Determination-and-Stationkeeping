@@ -1,4 +1,4 @@
-# Cislunar-Orbit-Determination-and-Stationkeeping
+# Cislunar-Orbit-Determination-and-Stationkeeping (IN-PROGRESS)
 Documentation of research projects related to estimation and control problems for spacecraft operating in cislunar space. 
 ## Applied Methods
 - Principal Stretching Direction Control (PSDC) and Floquet Mode Control (FMC)
